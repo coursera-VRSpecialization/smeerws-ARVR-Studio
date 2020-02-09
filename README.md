@@ -20,7 +20,8 @@ First sketch:
 <img width="500" alt="first simple sketch ar-vr studio" src="./Screenshots/arvrstudio-smeerws-090220-sketch.jpg">
 
 ### Necessary setup/execution steps: 
-You need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S. Clone the project, run the project.
+You need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S. 
+Clone the project, run the project Assets > MyGame > Scenes > MainScene.
 
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
@@ -52,5 +53,11 @@ incl. progress in percent
 The AR work is not part of this project yet. 
 
 ### Lessons Learned: 
+
+* Install Unity
+* Create a Unity 3D project
+* Build a Scene with 3D Objects
+* Import SteamVR
+* Implement locomotion in Unity with SteamVR
 
 Copyright by smeerws
