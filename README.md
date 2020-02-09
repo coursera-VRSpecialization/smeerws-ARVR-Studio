@@ -24,6 +24,21 @@ You need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S. Clo
 
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+* The factory environmnent I've used in another project. 
+In this project I restructured and renamed the GameObjects in the Hierarchy to make the project cleaner. 
+
+  - https://github.com/smeerws/VRND-NightattheMuseum, 
+
+  - https://www.youtube.com/watch?v=4S7aneXMAQU&feature=emb_title
+  
+* 3D Models & Textures (Asset Store): 
+- Tree (Mediterranean): Package isn't downloadable anymore (Deprecated)
+- Modular Warehose: Package isn't downloadable anymore (Depricated)
+- Free SpeedTrees Package: https://assetstore.unity.com/packages/3d/vegetation/speedtree/free-speedtrees-package-29170
+- SurfacesLite: https://assetstore.unity.com/packages/2d/textures-materials/surfaces-lite-89739
+- Textures-Brick and Tile: https://assetstore.unity.com/packages/2d/textures-materials/textures-brick-and-tile-71671
+- Space Robot Kyle: https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696
+- Pack Gesta Furniture #1: https://assetstore.unity.com/packages/3d/props/furniture/pack-gesta-furniture-1-28237
 
 ### Project state: 
 incl. progress in percent
