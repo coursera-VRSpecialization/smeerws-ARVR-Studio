@@ -22,8 +22,10 @@ First screenshot MainScene:
 <img width="500" alt="first simple sketch ar-vr studio" src="./Screenshots/sc-arvrstudio-100220.jpg">
 
 ### Necessary setup/execution steps: 
-You need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S. 
+In general, you need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S.
 Clone the project, run the project Assets > MyGame > Scenes > MainScene.
+
+All Plugins are in this project. If there are issues with SteamVR, delete the Plugin in the project and reimport and install it from the Unity Asset Store. 
 
 ### Third party material: 
 * The used factory environmnent in this project I've used in another project before: 
