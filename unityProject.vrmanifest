@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.tempunity2019114f13d.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Repos-smeerws-2020\\smeerws-ARVR-Studio\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "TempUnity2019114f13D [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -18,6 +18,9 @@ Oculus Rift S/Rift/Vive
 First sketch:
 <img width="500" alt="first simple sketch ar-vr studio" src="./Screenshots/arvrstudio-smeerws-090220-sketch.jpg">
 
+First screenshot MainScene: 
+<img width="500" alt="first simple sketch ar-vr studio" src="./Screenshots/sc-arvrstudio-100220.jpg">
+
 ### Necessary setup/execution steps: 
 You need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S. 
 Clone the project, run the project Assets > MyGame > Scenes > MainScene.
@@ -42,12 +45,15 @@ Clone the project, run the project Assets > MyGame > Scenes > MainScene.
   - My 3D models: 
     + Medium Ladybug balloon animal: https://sketchfab.com/3d-models/medium-ladybug-balloon-8428f79d22a047d9b28e4920c2e68b42
     + Medium Frog balloon animal: https://sketchfab.com/3d-models/medium-frog-balloon-97a038cd7a304bce81890c118fadd793
+* SteamVR Plugin: https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
 
 ### Project state: 
 Idea generation (Done), basic model factory building (Done), whiteboxing (Done), SteamVR import (WiP), Locomotion-teleportation (Wip) 
 
 ### Limitations:
 The AR work is not part of this project yet. 
+Teleport area isn't accurate yet, it is possible to teleport into walls. 
+Open issues: SteamVR resize/scale player results in hands offset. 
 
 ### Lessons Learned: 
 
