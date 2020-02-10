@@ -1,9 +1,9 @@
 # AR/VR Art|Design|Development Studio
 
 ### Project description: 
-This project is part of the coursera course 3D Models for Virtual Reality.
-It showcases several facets of my work with Virtual Realtiy (VR).  
-In a factory environmnent you will experience VR artwork I've made with VR Software, such as, Tilt Brush, Quill, Medium, 
+This project is part of the coursera course *3D Models for Virtual Reality*.
+It showcases several facets of my work with Virtual Reality (VR).  
+In a factory environment you will experience VR artwork I've made with VR Software, such as, Tilt Brush, Quill, Medium, 
 Blocks etc. Furthermore, traditional videos made based on VR artwork, and development work I've done in this field with Unity.   
 
 ### Development platform: 
@@ -28,7 +28,7 @@ Clone the project, run the project Assets > MyGame > Scenes > MainScene.
 All Plugins are in this project. If there are issues with SteamVR, delete the Plugin in the project and reimport and install it from the Unity Asset Store. 
 
 ### Third party material: 
-* The used factory environmnent in this project I've used in another project before: 
+* The used factory environment in this project I've used in another project before: 
   - https://github.com/smeerws/VRND-NightattheMuseum
   - https://www.youtube.com/watch?v=4S7aneXMAQU&feature=emb_title
 
@@ -37,7 +37,7 @@ All Plugins are in this project. If there are issues with SteamVR, delete the Pl
    https://github.com/sketchfab/unity-plugin/releases/tag/1.1.1
 * 3D Models & Textures (Asset Store): 
   - Tree (Mediterranean): Package isn't downloadable anymore (Deprecated)
-  - Modular Warehose: Package isn't downloadable anymore (Deprecated)
+  - Modular Warehouse: Package isn't downloadable anymore (Deprecated)
   - Free SpeedTrees Package: https://assetstore.unity.com/packages/3d/vegetation/speedtree/free-speedtrees-package-29170
   - SurfacesLite: https://assetstore.unity.com/packages/2d/textures-materials/surfaces-lite-89739
   - Textures-Brick and Tile: https://assetstore.unity.com/packages/2d/textures-materials/textures-brick-and-tile-71671
@@ -50,7 +50,7 @@ All Plugins are in this project. If there are issues with SteamVR, delete the Pl
 * SteamVR Plugin: https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
 
 ### Project state: 
-Idea generation (Done), basic model factory building (Done), whiteboxing (Done), SteamVR import (WiP), Locomotion-teleportation (Wip) 
+Idea generation (Done), basic model factory building (Done), whiteboxing (Done), SteamVR import (Done), first version of locomotion-teleportation (Done) 
 
 ### Limitations:
 The AR work is not part of this project yet. 
