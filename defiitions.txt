@@ -1,0 +1,12 @@
+Definition VR
+Virtual Reality refers to immersive, interactive, multi-sensory, viewer-centered,
+three dimensional computer-generated environments and the combination of
+technologies required to build these environments.
+Source: Carolina Cruz-Neira, Siggraph’93 Course Notes “Virtual Reality Overview”
+
+Definition AR
+Augmented Reality (AR) is defined as a real-time direct or indirect view of a
+physical real-world environment that has been enhanced, or augmented, by
+adding virtual computer-generated information to it.
+Source: Julie Carmigniani ; Borko Furht ; Marco Anisetti ; Paolo Ceravolo ; Ernesto Damiani ; Misa Ivkovic ,
+“Augmented Reality Technologies, Systems and Applications,” Multimedia Tools and Applications, 51, no. 1 (2011): 342
