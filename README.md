@@ -2,9 +2,8 @@
 
 ### Project description: 
 This project is part of the coursera course *3D Models for Virtual Reality*.
-It showcases several facets of my work with Virtual Reality (VR).  
-In a factory environment you will experience VR artwork I've made with VR Software, such as, Tilt Brush, Quill, Medium, 
-Blocks etc. Furthermore, traditional videos made based on VR artwork, and development work I've done in this field with Unity.   
+It showcases several facets of my work with Virtual Reality (VR), such as 3D modeling with VR Tools, development and programming.
+Therefore I've created a factory environment. Within this environment you will experience artwork I've made with VR Software, such as 3D models made with Tilt Brush, Quill, Medium, Blocks etc. You will see traditional 2D videos I've made in VR for others, as well as development work I've done in this field with Unity.   
 
 ### Development platform: 
 Windows 10, Unity 2019.1.14f1, 
@@ -50,7 +49,20 @@ All Plugins are in this project. If there are issues with SteamVR, delete the Pl
 * SteamVR Plugin: https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
 
 ### Project state: 
-Idea generation (Done), basic model factory building (Done), whiteboxing (Done), SteamVR import (Done), first version of locomotion-teleportation (Done) 
+- [x] Project ideation
+- [x] Basic factory environment (3D Models)
+- [x] SteamVR import
+- [x] V1 locomotion and teleportation
+- [x] Whiteboxing Medium models
+- [ ] Whiteboxing Quill models
+- [ ] Whiteboxing Tilt Brush models
+- [ ] Animation Globe
+- [ ] Animation Robot
+- [ ] Sound Robot
+- [ ] Sound Factory
+- [ ] Sound Radio
+- [ ] Video import
+- [ ] Write Scripts (Radio:sound/light on/off, Video stop/play, globe anim right/left/stop)
 
 ### Limitations:
 The AR work is not part of this project yet. 
