@@ -5,6 +5,20 @@ This project is part of the coursera course *3D Models for Virtual Reality*.
 It showcases several facets of my work with Virtual Reality (VR), such as 3D modeling with VR Tools, development and programming.
 Therefore I've created a factory environment. Within this environment you will experience artwork I've made with VR Software, such as 3D models made with Tilt Brush, Quill, Medium, Blocks etc. You will see traditional 2D videos I've made in VR for others, as well as development work I've done in this field with Unity.   
 
+### Project requirements: 
+- [x] You should have a brief description of your scene
+- [x] This description should give instructions
+- [x] The description should give any restrictions on hardware needed to run the scene
+- [x] The scene should contain several 3D objects
+- [x] The object should be arranged with transforms to form a scene
+- [x] The scene should be viewable in VR
+- [x] The objects should have materials including textures
+- [x] The scene should be scaled appropriately for VR
+- [ ] The scene should have appropriate lighting
+- [ ] (Optional) The scene can have animation
+- [ ] (Optional) The scene can include audio
+- [ ] The project should represent a real or imaginary scene
+
 ### Development platform: 
 Windows 10, Unity 2019.1.14f1, 
 Visual Studio community 2017 version 15.9.17, SteamVR Plugin 2.5.0 (sdk 1.8.19), 
