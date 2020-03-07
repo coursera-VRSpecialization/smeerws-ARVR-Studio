@@ -9,4 +9,16 @@ Augmented Reality (AR) is defined as a real-time direct or indirect view of a
 physical real-world environment that has been enhanced, or augmented, by
 adding virtual computer-generated information to it.
 Source: Julie Carmigniani ; Borko Furht ; Marco Anisetti ; Paolo Ceravolo ; Ernesto Damiani ; Misa Ivkovic ,
-“Augmented Reality Technologies, Systems and Applications,” Multimedia Tools and Applications, 51, no. 1 (2011): 342
+“Augmented Reality Technologies, Systems and Applications,” Multimedia Tools and Applications, 51, no. 1 (2011): 342#
+
+About Me
+
+Hello, my name is Susanne Meerwald-Stadler. You can also find me in different networks as smeerws.
+I love it to work creatively, in every reality that is available to me. 
+My background is computer science focused on user experience and robotics. 
+My new passion is virtual reality. 
+In addition to designing and developing virtual worlds and interactive systems, 
+I love painting, sketching and sculpting with VR tools. 
+
+My Website: smeerws.at, email: hello@smeerws.at
+Networks you can find me: LinkedIn, Sketchfab, Poly, Instagram, Twitter and Facebook. 
