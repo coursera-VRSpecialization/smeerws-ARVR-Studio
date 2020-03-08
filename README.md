@@ -57,9 +57,11 @@ All Plugins are in this project. If there are issues with SteamVR, delete the Pl
   - Space Robot Kyle: https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696
   - Pack Gesta Furniture #1: https://assetstore.unity.com/packages/3d/props/furniture/pack-gesta-furniture-1-28237
   - Folding Table and Chair PBR : https://assetstore.unity.com/packages/3d/props/furniture/folding-table-and-chair-pbr-111726
-  - My 3D models: 
+  - Picture Frame:  https://sketchfab.com/3d-models/picture-frame-17c28540fa0d407aacc46407baa065a4
+  - My sculpted 3D models: 
     + Medium Ladybug balloon animal: https://sketchfab.com/3d-models/medium-ladybug-balloon-8428f79d22a047d9b28e4920c2e68b42
     + Medium Frog balloon animal: https://sketchfab.com/3d-models/medium-frog-balloon-97a038cd7a304bce81890c118fadd793
+	+ Medim Stork-Balloon animial: https://sketchfab.com/3d-models/medium-stork-balloon-77a69733b5cc4ef494257a85be34371b
 * SteamVR Plugin: https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
 
 ### Project state: 
@@ -90,5 +92,6 @@ Open issues: SteamVR resize/scale player results in hands offset.
 * Build a Scene with 3D Objects
 * Import SteamVR
 * Implement locomotion in Unity with SteamVR
+* Pipeline Medium export fbx with textures, import fbx with textures into Unity: file:///C:/Users/hello/Downloads/Oculus%20Medium%20-%20Export%20Pipeline.pdf
 
 Copyright by smeerws
