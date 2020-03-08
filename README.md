@@ -70,6 +70,7 @@ All Plugins are in this project. If there are issues with SteamVR, delete the Pl
 - [x] SteamVR import
 - [x] V1 locomotion and teleportation
 - [x] Whiteboxing Medium models
+- [x] Import Medium models with textures
 - [ ] Whiteboxing Quill models
 - [ ] Whiteboxing Tilt Brush models
 - [ ] Animation Globe
@@ -93,5 +94,7 @@ Open issues: SteamVR resize/scale player results in hands offset.
 * Import SteamVR
 * Implement locomotion in Unity with SteamVR
 * Pipeline Medium export fbx with textures, import fbx with textures into Unity: file:///C:/Users/hello/Downloads/Oculus%20Medium%20-%20Export%20Pipeline.pdf
+* Using UI Elements in VR: 
+  * Way1 Click with controller trigger (Create a 2D Button, add Interactable Script, add UI Element Script-add your clickbahaviour script, add Box Collider)
 
 Copyright by smeerws
