@@ -58,6 +58,10 @@ namespace Valve.VR.InteractionSystem
 
             bool wasEngaged = engaged;
 
+            Debug.Log("hand.transform.position " + hand.transform.position);
+            Debug.Log("endPosition " + endPosition);
+            Debug.Log("movingPart parent name " +movingPart.parent.name);
+
             float currentDistance = Vector3.Distance(movingPart.parent.InverseTransformPoint(hand.transform.position), endPosition);
             float enteredDistance = Vector3.Distance(handEnteredPosition, endPosition);
 
