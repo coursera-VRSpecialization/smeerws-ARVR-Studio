@@ -32,11 +32,17 @@ Scripting Runtime Version: .NET 4.x Equivalent
 Oculus Rift S/Rift/Vive. The VR experience is tested and optimized for the Oculus Rift S platform.
 
 ### Visuals: 
-First sketch:
+First sketch:<br>
 <img width="500" alt="first simple sketch ar-vr studio" src="./Screenshots/arvrstudio-smeerws-090220-sketch.jpg">
 
-First screenshot MainScene: 
+First screenshot MainScene: <br>
 <img width="500" alt="first simple sketch ar-vr studio" src="./Screenshots/sc-arvrstudio-100220.jpg">
+
+Final screenshots MainScene: <br>
+<img width="500" alt="ar-vr studio sc1" src="./Screenshots/sc01mediumballons.JPG">
+<img width="500" alt="ar-vr studio sc2" src="./Screenshots/sc02OVRoomback.JPG">
+<img width="500" alt="ar-vr studio sc3" src="./Screenshots/sc03MixedModels.JPG">
+<img width="500" alt="ar-vr studio sc4" src="./Screenshots/sc04MixedModels.JPG">
 
 ### Necessary setup/execution steps: 
 In general, you need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S.
