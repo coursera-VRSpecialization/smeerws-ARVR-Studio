@@ -2,8 +2,12 @@
 
 ### Project description: 
 This project is part of the coursera course *3D Models for Virtual Reality*.
-It showcases several facets of my work with Virtual Reality (VR), such as 3D modeling with VR Tools, development and programming.
-Therefore I've created a factory environment. Within this environment you will experience artwork I've made with VR Software, such as 3D models made with Tilt Brush, Quill, Medium, Blocks etc. You will see traditional 2D videos I've made in VR for others, as well as development work I've done in this field with Unity.   
+The scene showcases several facets of my work with done in Virtual Reality (VR), such as 3D modeling with VR Tools, 
+development and programming. Therefore I've created a factory environment. 
+Within this environment you will experience artwork I've made with VR Software, such as 3D models made with Tilt Brush, 
+Quill, Medium, Blocks etc. 
+In a future update you will see traditional 2D videos I've made in VR for others, 
+as well as development work I've done in this field with Unity.   
 
 ### Project requirements: 
 - [x] You should have a brief description of your scene
@@ -14,10 +18,10 @@ Therefore I've created a factory environment. Within this environment you will e
 - [x] The scene should be viewable in VR
 - [x] The objects should have materials including textures
 - [x] The scene should be scaled appropriately for VR
-- [ ] The scene should have appropriate lighting
-- [ ] (Optional) The scene can have animation
-- [ ] (Optional) The scene can include audio
-- [ ] The project should represent a real or imaginary scene
+- [x] The scene should have appropriate lighting
+- [x] (Optional) The scene can have animation
+- [x] (Optional) The scene can include audio
+- [x] The project should represent a real or imaginary scene
 
 ### Development platform: 
 Windows 10, Unity 2019.1.14f1, 
@@ -25,7 +29,7 @@ Visual Studio community 2017 version 15.9.17, SteamVR Plugin 2.5.0 (sdk 1.8.19),
 Scripting Runtime Version: .NET 4.x Equivalent
 
 ### Target platform: 
-Oculus Rift S/Rift/Vive
+Oculus Rift S/Rift/Vive. The VR experience is tested and optimized for the Oculus Rift S platform.
 
 ### Visuals: 
 First sketch:
@@ -71,20 +75,28 @@ All Plugins are in this project. If there are issues with SteamVR, delete the Pl
 - [x] V1 locomotion and teleportation
 - [x] Whiteboxing Medium models
 - [x] Import Medium models with textures
-- [ ] Whiteboxing Quill models
-- [ ] Whiteboxing Tilt Brush models
-- [ ] Animation Globe
-- [ ] Animation Robot
-- [ ] Sound Robot
-- [ ] Sound Factory
-- [ ] Sound Radio
-- [ ] Video import
-- [ ] Write Scripts (Radio:sound/light on/off, Video stop/play, globe anim right/left/stop)
+- [x] Whiteboxing Quill models
+- [x] Whiteboxing Tilt Brush models
+- [x] V1 Animation Globe
+- [x] Write Script globe anim right/left/stop
+- [x] Sound Factory/Street
+- [x] V1 Skybox
+- [ ] Animation Robot (optional)
+- [ ] Sound Robot (optional)
+- [ ] Sound Radio (optional)
+- [ ] Video import (optional)
+- [ ] Write Scripts (optional Radio:sound/light on/off, Video stop/play)
 
 ### Limitations:
 The AR work is not part of this project yet. 
 Teleport area isn't accurate yet, it is possible to teleport into walls. 
 Open issues: SteamVR resize/scale player results in hands offset. 
+Optional planned parts are not realized yet, due to lack of time.
+The skybox has to be adjusted.
+
+### Problems:
+Multiple precompiled assembly execption: Sketchfab for Unity and Tiltbrush package use asseblies with the same name. Resolved
+the problem by deleting the sketchfab for unity package in the project pane and restarted unity. 
 
 ### Lessons Learned: 
 
@@ -96,5 +108,8 @@ Open issues: SteamVR resize/scale player results in hands offset.
 * Pipeline Medium export fbx with textures, import fbx with textures into Unity: file:///C:/Users/hello/Downloads/Oculus%20Medium%20-%20Export%20Pipeline.pdf
 * Using UI Elements in VR: 
   * Way1 Click with controller trigger (Create a 2D Button, add Interactable Script, add UI Element Script-add your clickbahaviour script, add Box Collider)
-
+  * Way2 Hover Button see SteamVR examples: press button with Hand
+* Pipeline Tilt Brush export fbx with textures and import into unity. To use shaders etc. go to https://github.com/googlevr/tilt-brush-toolkit resp. https://github.com/googlevr/tilt-brush-toolkit/releases and download 
+  Unity SDK v22.0.0. Afterwards copy the exported fbx model files from Tilt Brush (Go to Labs, than export, export is saved in Documents/TiltBrush/Export)) in your project. 
+  
 Copyright by smeerws
